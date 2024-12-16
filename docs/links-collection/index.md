@@ -14,3 +14,5 @@
     - [Meta - Llama](https://www.llama.com/) 🦙
  - [QuantNexus AI](https://www.quantnexus.ai/)
  - [Medium - DevinAI is an official flop — here’s why](https://medium.com/@enderboy/devinai-is-an-official-flop-heres-why-d75271c560a1)
+     - Nevertheless, it will be interesting to follow the development, if anything comes of it... ( -_•)▄︻テحكـ━一💥
+         - [Introducing Devin, the first AI software engineer](https://www.cognition.ai/blog/introducing-devin) 
