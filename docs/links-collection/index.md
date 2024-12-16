@@ -12,3 +12,5 @@
 - [Meta AI](https://ai.meta.com/)
     - [Introducing Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/)
     - [Meta - Llama](https://www.llama.com/) 🦙
+ - [QuantNexus AI](https://www.quantnexus.ai/)
+ - [Medium - DevinAI is an official flop — here’s why](https://medium.com/@enderboy/devinai-is-an-official-flop-heres-why-d75271c560a1)
