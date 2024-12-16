@@ -15,4 +15,7 @@
  - [QuantNexus AI](https://www.quantnexus.ai/)
  - [Medium - DevinAI is an official flop — here’s why](https://medium.com/@enderboy/devinai-is-an-official-flop-heres-why-d75271c560a1)
      - Nevertheless, it will be interesting to follow the development, if anything comes of it... ( -_•)▄︻テحكـ━一💥
-         - [Introducing Devin, the first AI software engineer](https://www.cognition.ai/blog/introducing-devin) 
+         - [Introducing Devin, the first AI software engineer](https://www.cognition.ai/blog/introducing-devin)
+- [The AI Acceleration AccelerationCloud](https://www.together.ai/) 🕉️🍀
+    - [together.ai Documentations](https://docs.together.ai/docs/introduction?_gl=1*12y8adm*_gcl_au*NjQ1ODY5MjA3LjE3MzM4NTQzMjA.) 📙
+- [Spreadsheets are all you need.ai - A no-code way to learn AI](https://spreadsheets-are-all-you-need.ai/index.html) ❤️⭐
