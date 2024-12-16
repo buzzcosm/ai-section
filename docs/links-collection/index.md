@@ -8,3 +8,5 @@
 - [Medium - Come-from-Beyond](https://medium.com/@comefrombeyond)
 - [YouTube▶️ - Build Your own ChatGPT without OpenAI API Key ! FREE](https://www.youtube.com/watch?v=F_Ocs4N2C78)
     - [GitHub - FreeGPT](https://github.com/ChatTeach/FreeGPT)
+- [AutoGPT](https://autogpt.net/) 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+- 
