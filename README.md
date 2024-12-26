@@ -11,3 +11,9 @@ Links Collection [here](./docs/links-collection/index.md)
 ## Repos Collection
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buzzcosm&repo=ai-section-gpt-agent-docs&theme=radical)](https://github.com/buzzcosm/ai-section-gpt-agent-docs)
+
+## Forked Projects
+
+- [Genesis](https://github.com/buzzcosm/Genesis)
+- [LangChain](https://github.com/buzzcosm/langchain)
+- [Flowise - Build LLM Apps Easily](https://github.com/buzzcosm/Flowise)
